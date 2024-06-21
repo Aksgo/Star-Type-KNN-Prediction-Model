@@ -12,7 +12,7 @@
 <img src = "https://github.com/Aksgo/Star-Type-KNN-Prediction-Model/blob/main/neighbour_accuracy.png?raw=true" width="400px" heigh="250px">
 <p>Fitting the model using best neighbour count achieved : <b>We got an accuracy of 98.9% on test data</b>
 <p><i>Here is the Scatter plot of Actual Values (blue circle) and Predicted Values (black square) of Star Type vs spectral value</i></p>
-
+<img src="https://github.com/Aksgo/Star-Type-KNN-Prediction-Model/blob/main/spec.png?raw=true" width="400px" heigh="250px">
 
 <hr>
 <h3>NOTE : The Data is acquired from kaggle <br><br> You may check out here : https://www.kaggle.com/datasets/deepu1109/star-dataset/data </h3>
