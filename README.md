@@ -7,7 +7,7 @@
   <li>Numpy</li>
   <li>Matplotlib</li>
 </ul>
-<p>The prediction model utlizes the <b>KNeighborsClassifier of sklearn module </b>which is a KNN Model to train the data</p>
+<p>The prediction model utlizes the <b>KNeighborsClassifier of sklearn module </b>which is a KNN Model to train</p>
 <p> Since there was not much data so 50% was used for training while 50% was used for testing purpose</p>
 <p>After Scaling down the data using <b> sklearn.StandardScaler </b> cross validation is performed to find out the optimal neighbour count</p>
 <img src = "https://github.com/Aksgo/Star-Type-KNN-Prediction-Model/blob/main/neighbour_accuracy.png?raw=true" width="400px" heigh="250px">
